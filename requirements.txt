@@ -1,7 +1,7 @@
 astroid==1.6.5
 backports.functools-lru-cache==1.5
 configparser==3.5.0
-cvxopt==1.2.3
+cvxopt==1.2.7
 cvxpy==1.0.20
 cycler==0.10.0
 decorator==4.3.0
